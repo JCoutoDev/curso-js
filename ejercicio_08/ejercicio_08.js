@@ -31,9 +31,3 @@ console.log(id_par.next())
 console.log(id_par.next())
 
 
-
-
-
-
-
-
